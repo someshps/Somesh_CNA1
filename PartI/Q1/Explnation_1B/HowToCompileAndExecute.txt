@@ -15,8 +15,7 @@ Now, server and client are connected and you can now input the
 specified 5 commands on the client which will execute and give the 
 results as it was mentioned in the assignment question.
 
-Note: When you uplaod a file to the sever,
-make sure that it is in the same direcotry as the client.py file.
+Note: When you uplaod a file to the sever, it is in the same direcotry as the client.py file.
 
 Also, the file to be downloaded must be present in the directory from where 
 you are writing the $dwd command
