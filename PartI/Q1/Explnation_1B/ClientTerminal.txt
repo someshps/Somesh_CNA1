@@ -1,0 +1,38 @@
+(base) someshpratapsingh@SOMESHs-MacBook-Air SourceCode % python3 client.py
+cwd
+/Users/someshpratapsingh/Desktop/19110206_CS433_A1/Q1/SourceCode
+ls
+['server.py', '.DS_Store', 'client.py', 'checkupd.txt']
+cd /Users/someshpratapsingh/Desktop/
+Directory successfuly changed. Status: OK
+dwd checkdwd.txt
+File successfuly downloaded. Status: OK
+cd /Users/someshpratapsingh/Desktop/19110206_CS433_A1/Q1/SourceCode
+Directory successfuly changed. Status: OK
+ls
+['server.py', '.DS_Store', 'client.py', 'checkdwd.txt', 'checkupd.txt']
+cd /Users/someshpratapsingh/Desktop/
+Directory successfuly changed. Status: OK
+ls
+['Paper', 'firstcap.pcapng', 'assignment-1-osathire', 'Screenshots', '.DS_Store', '.localized', 'checkdwd.txt', 'hii-1', 'CNA1', 'Miami', '.git', '19110206_CS433_A1']
+upd checkupd.txt
+Go to server's terminal window
+stop
+Program successfuly stopped
+(base) someshpratapsingh@SOMESHs-MacBook-Air SourceCode % 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

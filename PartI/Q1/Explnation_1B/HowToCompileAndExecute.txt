@@ -1,0 +1,22 @@
+Open two terminal tabs on you machine
+
+Navigate to the directory containing the files
+	1. server.py
+	2. client.py
+
+On one of the terminals, run the file server.py 
+
+After running the server file, it will appear hanged since
+it is waiting for the client to connect.
+
+On the other terminal run the file client.py
+
+Now, server and client are connected and you can now input the 
+specified 5 commands on the client which will execute and give the 
+results as it was mentioned in the assignment question.
+
+Note: When you uplaod a file to the sever,
+make sure that it is in the same direcotry as the client.py file.
+
+Also, the file to be downloaded must be present in the directory from where 
+you are writing the $dwd command

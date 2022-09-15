@@ -1,0 +1,37 @@
+(base) someshpratapsingh@SOMESHs-MacBook-Air SourceCode % python3 server.py
+Hello, I am a server and I am waiting for a client to connect with me.
+Client came and is now connected by  {('127.0.0.1', 60020)}
+File successfuly uploaded. Status: OK
+Program successfuly stopped
+(base) someshpratapsingh@SOMESHs-MacBook-Air SourceCode % 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
